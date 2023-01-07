@@ -30,13 +30,24 @@
         "Price": 500000
       }
     ],
-    "users":[
-      {
-        "id":1,
-        "email":"sandeepgond@gmail.com",
-        "usersname":"Sandeep",
-        "password":"1234",
-        "confirm-password":"1234"
-      }
-    ]
+    "users":{
+      "signup":[
+        {
+          "id":1,
+          "email":"sandeepgond@gmail.com",
+          "usersname":"Sandeep",
+          "password":"1234",
+          "confirm-password":"1234"
+        }
+      ],
+      "login":[
+        {
+          "usersname":"Sandeep",
+          "password":"1234"
+        }
+      ]
+
+    }
+  
+    
   }

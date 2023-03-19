@@ -68,5 +68,21 @@
           "booked":false,
           "id":"1"
         }
+      ],
+      "jobsUser":[
+        {
+        "Candidate_name" :"Sandeep Gond",
+        "Photo":"https://t4.ftcdn.net/jpg/00/65/77/27/360_F_65772719_A1UV5kLi5nCEWI0BNLLiFaBPEkUbv5Fv.jpg",
+        "Location":"Lucknow",
+        "Date Applied":"19-03-2023",
+          "Stage" :{
+            "source":"",
+            "applied":"",
+            "in-touch":"",
+            "interview":"",
+            "hired":"",
+            "rejected":""
+          }
+        }
       ]
   }

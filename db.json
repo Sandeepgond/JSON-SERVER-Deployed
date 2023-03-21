@@ -43,15 +43,15 @@
         "id":"1"   
         },
         {
-          "Candidate_name" :"Sandeep Gond",
+          "Candidate_name" :"Gond",
           "Photo":"https://media.licdn.com/dms/image/D4D03AQFg-uMwWi1wXw/profile-displayphoto-shrink_800_800/0/1664890310323?e=1684972800&v=beta&t=BM02ZIChcPoRTq6amaHYtIu2MUmvGFR0Znp2knK44V0",
-          "Location":"Lucknow",
-          "DateApplied":"19-03-2023",
+          "Location":"Mumbai",
+          "DateApplied":"20-03-2023",
           "Stage" :"Source",
           "id":"2"
           },
           {
-            "Candidate_name" :"Sandeep Gond",
+            "Candidate_name" :"Sandeep",
             "Photo":"https://media.licdn.com/dms/image/D4D03AQFg-uMwWi1wXw/profile-displayphoto-shrink_800_800/0/1664890310323?e=1684972800&v=beta&t=BM02ZIChcPoRTq6amaHYtIu2MUmvGFR0Znp2knK44V0",
             "Location":"Lucknow",
             "DateApplied":"19-03-2023",
@@ -62,20 +62,20 @@
           "Candidate_name" :"Gond",
           "Photo":"https://media.licdn.com/dms/image/D4D03AQFg-uMwWi1wXw/profile-displayphoto-shrink_800_800/0/1664890310323?e=1684972800&v=beta&t=BM02ZIChcPoRTq6amaHYtIu2MUmvGFR0Znp2knK44V0",
           "Location":"Lucknow",
-          "DateApplied":"19-03-2023",
+          "DateApplied":"21-03-2023",
           "Stage" :"Applied",
           "id":"4"   
         },
         {
-          "Candidate_name" :"Sandeep Gond",
+          "Candidate_name" :"Santosh",
           "Photo":"https://media.licdn.com/dms/image/D4D03AQFg-uMwWi1wXw/profile-displayphoto-shrink_800_800/0/1664890310323?e=1684972800&v=beta&t=BM02ZIChcPoRTq6amaHYtIu2MUmvGFR0Znp2knK44V0",
           "Location":"Lucknow",
-          "DateApplied":"19-03-2023",
+          "DateApplied":"18-03-2023",
           "Stage" :"In-Touch",
           "id":"5"
         },
         {
-          "Candidate_name" :"Sandeep Gond",
+          "Candidate_name" :"Sandy",
           "Photo":"https://media.licdn.com/dms/image/D4D03AQFg-uMwWi1wXw/profile-displayphoto-shrink_800_800/0/1664890310323?e=1684972800&v=beta&t=BM02ZIChcPoRTq6amaHYtIu2MUmvGFR0Znp2knK44V0",
           "Location":"Lucknow",
           "DateApplied":"19-03-2023",
@@ -83,7 +83,7 @@
           "id":"6"  
         },
         {
-          "Candidate_name" :"Sandeep Gond",
+          "Candidate_name" :"Pradeep Gond",
           "Photo":"https://media.licdn.com/dms/image/D4D03AQFg-uMwWi1wXw/profile-displayphoto-shrink_800_800/0/1664890310323?e=1684972800&v=beta&t=BM02ZIChcPoRTq6amaHYtIu2MUmvGFR0Znp2knK44V0",
           "Location":"Lucknow",
           "DateApplied":"19-03-2023",
@@ -91,20 +91,13 @@
           "id":"7"  
         },
         {
-          "Candidate_name" :"Sandeep Gond",
+          "Candidate_name" :"Pradeep",
           "Photo":"https://media.licdn.com/dms/image/D4D03AQFg-uMwWi1wXw/profile-displayphoto-shrink_800_800/0/1664890310323?e=1684972800&v=beta&t=BM02ZIChcPoRTq6amaHYtIu2MUmvGFR0Znp2knK44V0",
-          "Location":"Lucknow",
-          "DateApplied":"19-03-2023",
+          "Location":"Goa",
+          "DateApplied":"20-03-2023",
           "Stage" :"Rejected",
           "id":"8"   
-        },
-        {
-          "Candidate_name" :"Ashish Gond",
-          "Photo":"https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
-          "Location":"Bangalore",
-          "DateApplied":"21-03-2023",
-          "Stage" :"Hired",
-          "id":"9"   
         }
+    
       ]
   }

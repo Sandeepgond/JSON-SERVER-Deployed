@@ -97,6 +97,14 @@
           "DateApplied":"19-03-2023",
           "Stage" :"Rejected",
           "id":"8"   
+        },
+        {
+          "Candidate_name" :"Ashish Gond",
+          "Photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1r7oHu-9mUnUyno-5B4uZY_56OOP_9YHBmrkJa8B&s",
+          "Location":"Bangalore",
+          "DateApplied":"21-03-2023",
+          "Stage" :"Hired",
+          "id":"9"   
         }
       ]
   }
